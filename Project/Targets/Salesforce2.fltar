@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="SalesForce"
+  Type="CleanXHTML"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Salesforce.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  ConvertStylesheetStylesToInlineStyles="true"
+  ExcludeUnreferencedContent="true"
+  DisableAutoSync="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Glossaries />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/SalesForce.fldes"
+      Publish="true" />
+  </Destinations>
+</CatapultTarget>

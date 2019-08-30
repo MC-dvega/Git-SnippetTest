@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Cat2">
+        <TocEntry Title="SecA">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Test Topics/autonumb test Flare 11.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            </TocEntry>
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Test Topics/145362 Test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" conditions="A.Incl">
+            </TocEntry>
+        </TocEntry>
+    </TocEntry>
+    <TocEntry Title="Cat1">
+        <TocEntry Title="SecB">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Test Topics/autonumb test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            </TocEntry>
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/Test Topics/Dropdown Class.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" conditions="A.Incl" StartSection="false" />
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

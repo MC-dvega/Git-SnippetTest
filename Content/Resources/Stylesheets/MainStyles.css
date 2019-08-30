@@ -1,0 +1,845 @@
+/*<meta />*/
+
+/*===========================================================================================================================================================
+
+Hello! If this is your first time looking at a stylesheet within the text editor view, what you are reading right now is a "comment". Comments are added throughout this stylesheet with the purpose of making the source code easier to understand, comments will not be interpreted during the compile process. Since comments are not interpreted during the compile process, feel free to add or remove any comments.
+
+For help with MadCap Flare go to Help Ribbon > Topics Section > Open Help. Alternatively visit the Flare Online Help at help.madcapsoftware.com
+
+If you have any questions regarding how to work with this stylesheet or template project, please contact MadCap Technical Support. 
+https://www.madcapsoftware.com/support/contact-options.aspx
+
+NOTE: Generally, this stylesheet has elements listed out in the order that they appear in the topic from top to bottom. The exception are General styles which are at the top and the stylesheet mediums which are at the bottom.
+
+EXAMPLE: Since the search-bar is at the top of the topic page, it will be listed closer to the top of this stylesheet.
+
+===========================================================================================================================================================*/
+
+/*==Topic General Styles==*/
+
+:root
+{
+	--Brand: #076685;
+	--Dark-Gray: #45494c;
+	--Medium-Gray: #b9bec1;
+	--Light-Gray: #d0d3d5;
+	--White: #ffffff;
+	--Daphna: #A0285A;
+	--Subtle: #FCF5F8;
+}
+
+body
+{
+	color: #404040;
+	font-size: 11pt;
+	height: 775px;
+	line-height: 1.5em;
+	font-family: 'Encode Sans SemiBold';
+}
+
+h1
+{
+	font-size: 2em;
+	font-weight: normal;
+	margin-bottom: 8px;
+	padding-bottom: 10px;
+	margin-top: 30px;
+	color: #D9443F;
+	font-style: italic;
+}
+
+h2
+{
+	font-size: 1.2em;
+	font-weight: normal;
+	margin-bottom: 4px;
+	margin-top: 20px;
+}
+
+h3
+{
+	font-size: 1.1em;
+	font-weight: normal;
+	margin-bottom: 4px;
+	margin-top: 16px;
+	mc-heading-level: 2;
+}
+
+li
+{
+	margin-bottom: 6px;
+	margin-top: 6px;
+}
+
+p
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	margin-left: 5px;
+}
+
+p.blue
+{
+	color: var(--Brand);
+}
+
+img	/*Setting max-width: 100%; property makes images always fit the width of the container*/
+{
+	max-height: 3.5in;
+	border: solid 2px #000000;
+	padding: 3px;
+}
+
+img.thumbnail
+{
+	mc-thumbnail-max-height: auto;
+	mc-thumbnail: popup;
+	mc-thumbnail-max-width: 500px;
+	width: 100%;
+}
+
+.center
+{
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	float: none !important;
+	text-align: center;
+}
+
+a.MCBreadcrumbsLink
+{
+	font-style: italic;
+	text-decoration: underline;
+}
+
+a.MCBreadcrumbsLink:visited
+{
+	color: #D9443F;
+}
+
+a.MCBreadcrumbsLink:hover
+{
+	color: #000000;
+}
+
+MadCap|breadcrumbsProxy
+{
+	border-bottom: none;
+	font-size: 1.2em;
+}
+
+MadCap|xref
+{
+	color: #2D8DCC;
+	font-weight: bold;
+}
+
+MadCap|xref:hover
+{
+	color: #D9443F;
+}
+
+MadCap|dropDownHotspot
+{
+	color: #D9443F;
+}
+
+MadCap|dropDownBody
+{
+	border-bottom: 1px solid #d3d3d3;
+}
+
+MadCap|dropDown	/*Change the "mc-open-image" and "mc-closed-image" properties to change the icons used in drop-downs*/
+{
+	mc-closed-image: url('../Images/Assets/Icons/Arrows/arrow-right-gray.png');
+	mc-open-image: url('../Images/Assets/Icons/Arrows/arrow-down-black.png');
+	mc-image-spacing: 25px;
+}
+
+/*==Master Page Topic Layout==*/
+
+nav.title-bar	/*Adds bottom border on top navigation bar*/
+{
+	border-bottom: 1px solid #d3d3d3;
+}
+
+div.top-bar	/*Contains the breadcrumbs and toolbar*/
+{
+	min-height: 50px;
+	/*Min-height is necessary for topics that are not included in a TOC*/
+}
+
+div.search-container
+{
+	float: right;
+	max-width: 60%;
+	width: 60%;
+}
+
+/*==Elements for the left side of Master Page layout==*/
+
+div.side-menu	/*This is the div that the menu proxy is contained in*/
+{
+	padding-left: 10px;
+	margin-top: 15px;
+}
+
+/*Styles that provide the border radius to the menu proxy items*/
+
+ul.menu._Skins_SideMenu.mc-component li > a.selected
+{
+	border-radius: 5px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+ul.menu._Skins_SideMenu.mc-component li > a:hover
+{
+	background-color: #D9443F;
+	border-radius: 5px;
+}
+
+ul.menu._Skins_SideMenu.mc-component ul > li > a:hover
+{
+	background-color: #D9443F;
+	border-radius: 5px;
+}
+
+ul.menu._Skins_SideMenu.mc-component ul ul > li > a:hover
+{
+	background-color: #D9443F;
+	border-radius: 5px;
+}
+
+ul.menu._Skins_SideMenu.mc-component ul ul ul > li > a:hover
+{
+	background-color: #D9443F;
+	border-radius: 5px;
+}
+
+ul.menu._Skins_SideMenu.mc-component ul ul ul ul > li > a:hover
+{
+	background-color: #D9443F;
+	border-radius: 5px;
+}
+
+div.topic-layout	/*This layout was created using the Responsive Layout Editor in MadCap Flare. Go to: Home Ribbon > Styles Section > Responsive Layout*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.topic-layout::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.topic-layout::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.topic-layout > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding-left: 5px;
+	padding-right: 5px;
+	width: 100%;
+}
+
+div.topic-layout > div:nth-child(1)	/*Menu Proxy container*/
+{
+	margin-left: 0%;
+	width: 25%;
+}
+
+div.topic-layout > div:nth-child(2)
+{
+	margin-left: 1%;
+	width: 70%;
+	padding: 3%;
+}
+
+div.topic-layout > div:nth-child(3)
+{
+	width: 25%;
+	margin-left: 0%;
+}
+
+div.topic-layout > div:nth-child(4)
+{
+	margin-left: 0%;
+	width: 25%;
+}
+
+div.NewRowClass1	/*This is a custom responsive layout row style (div class) in your stylesheet. To provide your own description for this style: (1) Open the stylesheet; (2) Find and select the div class with this name; and (3) In the Comment field, replace this text with your own. For more information on adding comments to styles, see the online Help.*/
+{
+	mc-grid-row: true;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.NewRowClass1::before
+{
+	content: ' ';
+	display: table;
+}
+
+div.NewRowClass1::after
+{
+	content: ' ';
+	display: table;
+	clear: both;
+}
+
+div.NewRowClass1 > div
+{
+	float: left;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+div.NewRowClass1 > div:nth-child(1)
+{
+	width: 33.33333%;
+	margin-left: 0%;
+}
+
+div.NewRowClass1 > div:nth-child(2)
+{
+	width: 33.33333%;
+	margin-left: 0%;
+}
+
+div.NewRowClass1 > div:nth-child(3)
+{
+	width: 33.33333%;
+	margin-left: 0%;
+}
+
+MadCap|dropDownHotspot.h2
+{
+	color: #D9443F;
+	font-size: 1.2em;
+}
+
+p.Concept
+{
+	
+}
+
+p.ConceptContext
+{
+	
+}
+
+.GenListOfTextfigcap
+{
+	color: red;
+}
+
+MadCap|listOfProxy
+{
+	font-size: 12pt;
+	font-family: 'Comic Sans MS';
+}
+
+p.ListOf
+{
+	color: red;
+	font-family: 'Curlz MT';
+	font-size: 25pt;
+}
+
+table
+{
+	font-size: 10pt;
+}
+
+td
+{
+	font-size: 10pt;
+	margin: 5px;
+}
+
+tbody
+{
+	font-size: 10pt;
+}
+
+MadCap|menuProxy
+{
+	border: solid 2px #006400;
+	background-color: var(--Medium-Gray);
+}
+
+p.TOC1
+{
+	
+}
+
+p.TOC2
+{
+	
+}
+
+p.TOC3
+{
+	
+}
+
+MadCap|miniTocProxy
+{
+	border-top-color: #D9443F;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*===========================================================================================================================================================
+Styles after this point are styles that are for specific mediums. If any additional styles are added to this template they will be listed after mediums.
+[@media tablet] declares styles that will apply when the screen is in tablet view
+[@media mobile] declares styles that will apply when the screen is in mobile view
+===========================================================================================================================================================*/
+
+@media tablet
+{
+	.row.nav-search
+	{
+		display: block;
+	}
+
+	div.search-container
+	{
+		display: none;
+	}
+
+	div.topic-layout > div:nth-child(1)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	div.topic-layout > div:nth-child(2)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	div.topic-layout > div:nth-child(3)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	div.topic-layout > div:nth-child(4)
+	{
+		width: 50%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(1)
+	{
+		width: 33.33333%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(2)
+	{
+		width: 33.33333%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(3)
+	{
+		width: 33.33333%;
+		margin-left: 0%;
+	}
+
+	img.thumbnail
+	{
+		mc-thumbnail-max-width: 350px;
+		width: 75%;
+	}
+}
+
+@media mobile
+{
+	div.top-bar
+	{
+		min-height: 0;
+	}
+
+	.row.nav-search
+	{
+		display: block;
+	}
+
+	div.search-container
+	{
+		display: none;
+	}
+
+	div.topic-layout > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.topic-layout > div:nth-child(2)
+	{
+		width: 98%;
+		margin-left: 2%;
+	}
+
+	div.topic-layout > div:nth-child(3)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.topic-layout > div:nth-child(4)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(1)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(2)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	div.NewRowClass1 > div:nth-child(3)
+	{
+		width: 100%;
+		margin-left: 0%;
+	}
+
+	img.thumbnail
+	{
+		mc-thumbnail-max-width: 175px;
+		width: 66%;
+	}
+}
+
+p.autonum
+{
+	mc-auto-number-position: outside-head;
+	font-size: .75em;
+	margin-top: 3px;
+	margin-left: 10px;
+	margin-bottom: 15px;
+	mc-auto-number-format: 'GH:{n+}. ';
+	mc-auto-number-offset: 32px;
+}
+
+p.autonumb11
+{
+	mc-auto-number-format: '{family Courier New}{color red}► {/color}{/family}';
+	mc-toc-depth: 2;
+}
+
+table.GenTOCTable3
+{
+	display: none;
+}
+
+table.GenTOCTable4
+{
+	display: none;
+}
+
+h1.noTOCentry
+{
+	display: none;
+}
+
+@media print
+{
+	p
+	{
+		font-size: 11pt;
+		margin-bottom: .6em;
+	}
+
+	body
+	{
+		height: auto;
+	}
+
+	img
+	{
+		margin: 5px;
+	}
+
+	footer
+	{
+		border-top: solid 1px #9acd32;
+		margin-top: 5px;
+	}
+
+	MadCap|conceptsProxy
+	{
+		font-size: 12pt;
+	}
+
+	.GenListOfTextfigcap
+	{
+		
+	}
+
+	MadCap|listOfProxy
+	{
+		color: green;
+		font-size: 25pts;
+	}
+
+	h1
+	{
+		
+	}
+
+	p.display
+	{
+		
+	}
+
+	h1.chapnum
+	{
+		mc-auto-number-format: '{chapnum} | ';
+		padding-top: .1em;
+		border-top: solid 2px #ffa07a;
+	}
+
+	h1.nonchap
+	{
+		page-break-before: avoid;
+	}
+
+	MadCap|miniTocProxy
+	{
+		page-break-after: always;
+	}
+}
+
+p.insidehead
+{
+	mc-auto-number-position: inside-head;
+	font-size: .75em;
+	margin-top: 3px;
+	margin-left: 10px;
+	margin-bottom: 15px;
+	mc-auto-number-format: 'GH:{n+}. ';
+}
+
+p.footer
+{
+	font-size: .75em;
+	line-height: 1.2em;
+}
+
+.right
+{
+	text-align: right;
+	vertical-align: bottom;
+	position: relative;
+	bottom: 100%;
+}
+
+MadCap|xref.filename
+{
+	mc-format: '{filename}';
+}
+
+li
+{
+	margin-bottom: 3px;
+}
+
+p.comment
+{
+	font-size: .75em;
+	line-height: 1.2em;
+	font-style: italic;
+	color: #ff4500;
+	width: 50%;
+	border-top: solid 1px #ff4500;
+	padding-top: 5px;
+	margin-top: -10px;
+	opacity: 0.5;
+}
+
+MadCap|xref.cotxsen
+{
+	mc-format: '{pageref}';
+}
+
+MadCap|xref.title
+{
+	mc-format: '{title}';
+}
+
+p.figcap
+{
+	font-size: 10pt;
+	margin-top: 3pt;
+	border-bottom: solid 1px #000000;
+	mc-auto-number-format: 'GH:figure {n+} - ';
+	color: orange;
+}
+
+MadCap|listOfProxy.listofTables
+{
+	
+}
+
+MadCap|dropDownHead.autonum
+{
+	mc-auto-number-format: 'Step {n+}: ';
+}
+
+ol.stepX
+{
+	
+}
+
+MadCap|dropDownHotspot.autonum
+{
+	padding-left: 50px;
+	list-style-type: decimal;
+	mc-dita-type: li;
+}
+
+.displaynone
+{
+	display: none;
+}
+
+.hidden
+{
+	visibility: hidden;
+}
+
+p.contained
+{
+	padding: 10px;
+	border: solid 3px #8b008b;
+}
+
+MadCap|xref.h1file
+{
+	mc-format: '{h1} / {filename}';
+}
+
+p.cell
+{
+	margin-left: 0;
+}
+
+div.xref
+{
+	display: run-in;
+}
+
+.xref
+{
+	
+}
+
+p.tablebody
+{
+	padding: 3px;
+	font-size: 10px;
+	line-height: 1.075em;
+}
+
+.container
+{
+	background: #6b87f3;
+	color: #ffffff;
+	padding: 2em;
+	margin: 40px auto 0;
+	width: 90%;
+	max-width: 400px;
+	/*display: flex;*/
+}
+
+p.v-transf
+{
+	color: #4b13d8;
+	font-weight: bold;
+	margin: 0.15em 0.75em 0 0;
+	transform-origin: top left 0;
+	transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=1);
+}
+
+p.v-orient
+{
+	color: #4b13d8;
+	font-weight: bold;
+	writing-mode: vertical-rl;
+	text-orientation: mixed;
+}
+
+ul.cyan
+{
+	list-style: none;
+	margin-left: default;
+}
+
+ul.cyan li::before
+{
+	color: cyan;
+	content: "\2022";
+	width: 1em;
+	display: inline-block;
+	margin-left: -1em;
+	/*text-indent: 1em*/
+}
+
+ul.magenta
+{
+	list-style: none;
+	margin-left: 20px;
+}
+
+ul.magenta li::before
+{
+	color: magenta;
+	content: "\2022";
+	width: 1em;
+	display: inline-block;
+	margin-left: -1em;
+	/*text-indent: 1em*/
+}
+
+h1.chapnum
+{
+	
+}
+
+h1.nonchap
+{
+	font-size: 1.6em;
+	font-style: normal;
+}
+

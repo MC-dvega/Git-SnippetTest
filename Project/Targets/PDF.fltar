@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  DisableAutoSync="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  PatchHeadingLevels="false"
+  MasterToc="/Project/TOCs/_TEST.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayout/PageLayout.flpgl"
+  CentralLinkIds=""
+  TargetLanguage="en-us">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/test1.fldes"
+      Publish="true" />
+    <Destination
+      Publish="true" />
+  </Destinations>
+  <Glossaries />
+</CatapultTarget>

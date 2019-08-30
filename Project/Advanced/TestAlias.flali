@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAliasFile>
+    <Map Name="NEWstartup_home" Link="/Content/Home.htm" />
+    <Map Name="minitoc" Link="/Content/minitoc.htm" />
+</CatapultAliasFile>

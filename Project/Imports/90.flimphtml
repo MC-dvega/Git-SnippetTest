@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  KeepSourceLinks="false"
+  ProjectName="snippettest"
+  ProjectFolder="C:\Users\dvega\Documents\My Projects\snippettest\"
+  AutoSync="false"
+  SourceFolders=""
+  ImportResources="false"
+  ImportResourcesLocation="NoImport"
+  ImportTopics="specific"
+  ImportLinkedHtmlFiles="false"
+  LastImport="2019-08-01T07:22:40.7870365-07:00"
+  ImportTopicsLocation="Content/XHTML Test Files/">
+  <Files>
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/90.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/90.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/207.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/207.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/223.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/223.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/227.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/227.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/230.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/230.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/233.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/233.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/234.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/234.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/235.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/235.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/236.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/236.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/237.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/237.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/242.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/242.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/243.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/243.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/244.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/244.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/245.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/245.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/246.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/246.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/247.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/247.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/248.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/248.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/249.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/249.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/250.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/250.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/251.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/251.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/252.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/252.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/253.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/253.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/254.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/254.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/267.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/267.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/dhtml_search.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/dhtml_search.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/heading.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/heading.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/index.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/index.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/indexpage.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/indexpage.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/tab_index.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/tab_index.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/tab_search.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/tab_search.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/tab_toc.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/tab_toc.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc2877.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc2877.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc2879.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc2879.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc28713.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc28713.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc28718.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc28718.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc28721.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc28721.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc28725.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc28725.htm" />
+    <Url
+      Source="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc28733.htm"
+      AbsoluteSource="file://fs1/QA/Test Projects/AuthorIT/XHTML Pages/toc28733.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/XHTML Test Files/90.htm"
+      TimeStamp="8/1/2019 7:22:05 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/207.htm"
+      TimeStamp="8/1/2019 7:22:05 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/223.htm"
+      TimeStamp="8/1/2019 7:22:05 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/227.htm"
+      TimeStamp="8/1/2019 7:22:05 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/230.htm"
+      TimeStamp="8/1/2019 7:22:05 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/233.htm"
+      TimeStamp="8/1/2019 7:22:05 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/234.htm"
+      TimeStamp="8/1/2019 7:22:05 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/235.htm"
+      TimeStamp="8/1/2019 7:22:05 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/236.htm"
+      TimeStamp="8/1/2019 7:22:05 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/237.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/242.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/243.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/244.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/245.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/246.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/247.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/248.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/249.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/250.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/251.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/252.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/253.htm"
+      TimeStamp="8/1/2019 7:22:06 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/254.htm"
+      TimeStamp="8/1/2019 7:22:07 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/267.htm"
+      TimeStamp="8/1/2019 7:22:07 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/dhtml_search.htm"
+      TimeStamp="8/1/2019 7:22:07 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/heading.htm"
+      TimeStamp="8/1/2019 7:22:07 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/index.htm"
+      TimeStamp="8/1/2019 7:22:07 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/indexpage.htm"
+      TimeStamp="8/1/2019 7:22:07 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/tab_index.htm"
+      TimeStamp="8/1/2019 7:22:07 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/tab_search.htm"
+      TimeStamp="8/1/2019 7:22:07 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/tab_toc.htm"
+      TimeStamp="8/1/2019 7:22:07 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/toc.htm"
+      TimeStamp="8/1/2019 7:22:07 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/toc2877.htm"
+      TimeStamp="8/1/2019 7:22:07 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/toc2879.htm"
+      TimeStamp="8/1/2019 7:22:08 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/toc28713.htm"
+      TimeStamp="8/1/2019 7:22:08 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/toc28718.htm"
+      TimeStamp="8/1/2019 7:22:08 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/toc28721.htm"
+      TimeStamp="8/1/2019 7:22:08 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/toc28725.htm"
+      TimeStamp="8/1/2019 7:22:08 AM" />
+    <Url
+      Source="../../Content/XHTML Test Files/toc28733.htm"
+      TimeStamp="8/1/2019 7:22:08 AM" />
+    <Url
+      Source="../TOCs/90.fltoc"
+      TimeStamp="8/1/2019 7:22:34 AM" />
+  </GeneratedFiles>
+</HtmlImport>

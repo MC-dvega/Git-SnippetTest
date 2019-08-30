@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="false"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ResultsPerPage="10"
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
+  ConditionTagExpression="include[&quot;General.Audience B&quot;] exclude[&quot;General.Audience A&quot;] "
+  DefaultUrl="/Content/Home.htm"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  MasterStylesheetOverride="true"
+  TabletBreakpoint="1279"
+  EquationsOutputType="PNG"
+  ServerEnabled="true"
+  CatalogName="Web"
+  IndexChunkSize="100000"
+  SearchResultsSkin="/Project/Skins/HTML5 Search Results skin.flskn"
+  MasterToc="/Project/TOCs/ZenD.fltoc"
+  Medium="print">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/ZenDesk.fldes"
+      Publish="true" />
+  </Destinations>
+  <Variables>
+    <Variable
+      Name="General/AtlasUpdated"
+      Type="DateTimeManual">dd MMM yyyy</Variable>
+    <Variable
+      Name="General/OnlineHelpUpdated"
+      Type="DateTime">dd MMM yyyy</Variable>
+  </Variables>
+</CatapultTarget>

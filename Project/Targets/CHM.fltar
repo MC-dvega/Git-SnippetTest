@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment=""
+  Type="HtmlHelp"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/Test Topics/Related Topics Test.htm"
+  MoveOutputContentToRoot="true"
+  UseLocalBuildSettings="true"
+  MakeFileLowerCase="false"
+  Skin="/Project/Skins/CHM.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/z_CHM.css"
+  ConditionTagExpression=""
+  OutputFile="memoQHelp.chm"
+  MasterToc="/Project/TOCs/Master.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Glossaries />
+  <Variables>
+    <Variable
+      Name="1/CallToAction">http://help.memoq.com</Variable>
+    <Variable
+      Name="1/Facebook">https://www.facebook.com/kilgray/</Variable>
+    <Variable
+      Name="1/LinkedIn">https://www.linkedin.com/company/kilgray-translation-technologies/</Variable>
+    <Variable
+      Name="1/ProductName">memoQ</Variable>
+    <Variable
+      Name="1/PhoneNumber">+36 1 808 8313</Variable>
+    <Variable
+      Name="1/CompanyName">memoQ Translation Technologies</Variable>
+    <Variable
+      Name="1/Twitter">https://twitter.com/kilgray</Variable>
+    <Variable
+      Name="1/StreetAddress">Béke sugárút 14.</Variable>
+    <Variable
+      Name="1/CityStateZip">5700 Gyula, Hungary</Variable>
+  </Variables>
+</CatapultTarget>

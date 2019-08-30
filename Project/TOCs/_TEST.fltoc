@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/MiniTOC/Chapter 1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MiniTOC/Introduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ChapterNumberReset="same"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/MiniTOC/Background.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ChapterNumberReset="same"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/MiniTOC/Scope.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        ChapterNumberReset="same"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same">
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/MiniTOC/Roles.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+          ChapterNumberReset="same"
+          SectionNumberReset="continue"
+          VolumeNumberReset="same" />
+        <TocEntry
+          Title="[%=System.LinkedTitle%]"
+          Link="/Content/MiniTOC/Commitment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+          ChapterNumberReset="same"
+          SectionNumberReset="continue"
+          VolumeNumberReset="same" />
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

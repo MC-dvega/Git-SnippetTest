@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set.">
+    <MicroContent>
+        <MicroContentPhrase>micro</MicroContentPhrase>
+        <MicroContentResponse href="../../Test Topics/XRef Autonum.htm#microcontent1" />
+    </MicroContent>
+    <MicroContent>
+        <MicroContentPhrase>Content</MicroContentPhrase>
+        <MicroContentResponse href="../../Test Topics/XRef Autonum.htm#microcontent2" />
+    </MicroContent>
+</MicroContentSet>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in">
+        <Frame X="-11px" Y="-11px" Width="644px" Height="886px" Flow="decoration1" Right="-9px" Bottom="-11px" Anchors="" BackgroundImage="../Images/icon-PressReleaseLargeBg.png" BackgroundPositionX="center" BackgroundRepeat="repeat" BackgroundPositionY="center" />
+        <Frame X="0px" Y="885px" Width="624px" Height="51px" Flow="decoration0" Right="0px" Bottom="-72px" TextAlign="center" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="margin-top: 0px;margin-left: 0px;">
+                            <xhtml:img xhtml:src="../Images/2019-04-29_07h25_29_edited.jpg" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:mediastyle="@media print { height: auto;width: 100%; }" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="header" Height="0.5in" Right="0px" X="0px" Y="-0.75in" ColumnCount="1" Width="6.5in" Bottom="888px">
+        </Frame>
+        <Frame Flow="footer" Height="0.5in" Right="0px" Bottom="-72px" X="0px" Y="9.25in" Width="6.5in" Anchors="" BackgroundType="Solid" BackgroundColor="transparent" BackgroundImage="none" ColumnCount="1" ColumnGap="0px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="color: white;text-align: right;">Footer Above Decoration Frame</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9in" X="0px" Y="0px" Right="0px" Bottom="0px">
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="title" Name="Title">
+        <Frame X="-95px" Y="-96px" Width="747px" Height="94px" Flow="decoration0" Right="-28px" Bottom="866px" BackgroundColor="#696969" BackgroundColorAlt="#696969" Anchors="" BackgroundType="Solid" />
+        <Frame X="35px" Y="169px" Width="474px" Height="453px" Flow="body" Right="115px" Bottom="242px" Anchors="" />
+        <Frame X="33px" Y="-81px" Width="747px" Height="94px" Flow="decoration2" Right="-156px" Bottom="851px" BackgroundColor="#343434" BackgroundColorAlt="#696969" Anchors="" BackgroundType="Solid" FlowIndex="1" />
+        <Frame X="-67px" Y="-39px" Width="764px" Height="7px" Flow="decoration1" Right="-73px" Bottom="896px" BackgroundType="Solid" BackgroundColor="#9acd32" BackgroundColorAlt="#e0ffff" Anchors="" />
+    </Page>
+</PageStyles>

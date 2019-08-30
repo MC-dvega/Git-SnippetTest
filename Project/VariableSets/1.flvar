@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="variable Z"
+    Comment=""
+    EvaluatedDefinition=""></Variable>
+  <Variable
+    Name="variable Y"
+    Comment=""
+    EvaluatedDefinition=""></Variable>
+</CatapultVariableSet>

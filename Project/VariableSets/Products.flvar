@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="ProductName"
+    EvaluatedDefinition="ProductA">ProductA</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    EvaluatedDefinition="ProductB">ProductB</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    EvaluatedDefinition="ProductC">ProductC</Variable>
+</CatapultVariableSet>

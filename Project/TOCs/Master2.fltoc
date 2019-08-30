@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Test Topics/TOC Headings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="Heading 2"
+      Link="/Content/Test Topics/TOC Headings.htm#Heading2" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/minitoc.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      BreakType="pageLayout"
+      StartSection="false">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"></TocEntry>
+  </TocEntry>
+</CatapultToc>

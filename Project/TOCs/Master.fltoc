@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="title"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayout/PageLayout.flpgl"
+    conditions="Default.PrintOnly" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/TOCProxy.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayout/PageLayout.flpgl"
+    conditions="Default.PrintOnly"
+    PageType="title"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedHeader%]"
+    Link="/Content/Sample Landing Topic.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    ComputeToc="false"
+    conditions="Default.PrintOnly" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Test Topics/TOC Headings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.PrintOnly"
+    StartSection="false" />
+  <TocEntry
+    Title="Images"
+    Link="/Content/Images.htm"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    StartSection="false"
+    BreakType="chapter"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Test Topics/152231 - Thumbnails.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/Image Test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/ImageMapTest.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/Image Map Test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Test Topics/SVG Test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Tables"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/table paragraph.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/TableTest2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Test Topics/TableTest3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Test Topics/Table Row Height.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Dropdowns"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/Dropdown Class.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/Dropdown Test146221.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Test Topics/DropDown-MetaTags.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Snippets"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/snippet_test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/snippet_test_2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/Snippet Test 3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Xref"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/xref_test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/figcap_xref.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Test Topics/XRef Autonum.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Test Topics/XRef From.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Lists"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/lists test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/List of Test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/Nested List.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+  </TocEntry>
+  <TocEntry
+    Title="Misc"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/minitoc.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Sample Landing Topic.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Test Topics/Display Test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/Related Topics Test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/equation test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/div class test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedHeader%]"
+      Link="/Content/Test Topics/Popup Link Test.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      ComputeToc="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Test Topics/Search.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="PDF"
+    Link="/Content/Resources/PDF/PDF.pdf" />
+</CatapultToc>

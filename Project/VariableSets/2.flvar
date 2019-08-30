@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  Comment="Running Headers and Footers for Adobe FrameMaker and MS Word support. The variables defined within this set should not be renamed.">
+  <Variable
+    Name="variable X"
+    Comment=""
+    EvaluatedDefinition=""></Variable>
+</CatapultVariableSet>

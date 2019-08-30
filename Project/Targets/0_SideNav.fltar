@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Side Nav HTML5"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  GetLatestBeforeCompile="false"
+  DisableAutoSync="true"
+  Skin="/Project/Skins/SideNavigation.flskn"
+  ConditionTagExpression="include[A.1 or A.2]exclude[A.3]"
+  SearchFilterSet="/Project/Advanced/SFS_Test.flsfs"
+  MasterPage="/Content/Resources/MasterPages/SideNav.flmsp"
+  ExcludeUnreferencedContent="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  UseDeviceWidth="false"
+  TopicToolbarSkin="/Project/Skins/TopicToolBar.flskn"
+  MasterToc="/Project/TOCs/_TEST.fltoc">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/test1.fldes"
+      Publish="true" />
+  </Destinations>
+  <MetaTags
+    Enabled="true" />
+</CatapultTarget>

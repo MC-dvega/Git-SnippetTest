@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Tripane HTML5"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Master.fltoc"
+  DisableAutoSync="true"
+  Skin="/Project/Skins/Tripane.flskn"
+  ExcludeUnreferencedContent="true"
+  MasterPage="/Content/Resources/MasterPages/_TEST.flmsp"
+  TopicToolbarSkin="/Project/Skins/TopicToolBar.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <MetaTags
+    Enabled="true" />
+</CatapultTarget>

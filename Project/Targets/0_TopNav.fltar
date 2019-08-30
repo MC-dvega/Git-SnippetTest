@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="HTML5 Top Nav"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="false"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ResultsPerPage="10"
+  ConditionTagExpression="exclude[Default.PrintOnly] "
+  DefaultUrl="/Content/Home.htm"
+  MasterStylesheetOverride="false"
+  TabletBreakpoint="1279"
+  DisableAutoSync="true"
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
+  SearchFilterSet="/Project/Advanced/SFS_Test.flsfs"
+  PreCompileScaledImages="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  ExcludeUnreferencedContent="true"
+  MasterToc="/Project/TOCs/_TEST.fltoc"
+  TopicToolbarSkin="/Project/Skins/TopicToolBar.flskn"
+  ResolveCssVariables="true"
+  TopNavTocPath="true"
+  PartialWordSearch="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/ShP365.fldes"
+      Publish="true" />
+  </Destinations>
+  <Variables>
+    <Variable
+      Name="3/Two">twotwo</Variable>
+    <Variable
+      Name="General/CompanyName">abc company name</Variable>
+  </Variables>
+  <MetaTags
+    Enabled="true">
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge" />
+    <meta
+      name="This is a tag added through the target editor" />
+  </MetaTags>
+</CatapultTarget>

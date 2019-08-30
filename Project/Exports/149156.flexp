@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultExportProjectFile
+  DestinationType="ManualSelection"
+  SourceProjectPath="C:\Users\dvega\Documents\My Projects\snippettest\snippettest.flprj"
+  DestinationName="149156"
+  DestinationPath="C:\Users\dvega\Documents\My Project Exports\"
+  ExportType="Files"
+  TargetConvertVariables="false"
+  TargetConvertSnippets="false">
+  <SelectedContentFiles>
+    <Url
+      Source="Resources" />
+    <Url
+      Source="Resources/Stylesheets" />
+    <Url
+      Source="Resources/Stylesheets/MainStyles.css" />
+    <Url
+      Source="Test Topics" />
+    <Url
+      Source="Test Topics/autonumb test.htm" />
+  </SelectedContentFiles>
+  <SelectedProjectFiles>
+    <Url
+      Source="Skins" />
+    <Url
+      Source="Skins/HTML5 - Top Navigation.flskn" />
+    <Url
+      Source="Targets" />
+    <Url
+      Source="Targets/0_TopNav.fltar" />
+    <Url
+      Source="TOCs" />
+    <Url
+      Source="TOCs/Master.fltoc" />
+  </SelectedProjectFiles>
+</CatapultExportProjectFile>

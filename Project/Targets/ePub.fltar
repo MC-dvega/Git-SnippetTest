@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="EPUB"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  DisableAutoSync="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  MasterToc="/Project/TOCs/_TEST.fltoc"
+  EnableDynamicContentInEpub="false"
+  ConditionTagExpression="">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>
