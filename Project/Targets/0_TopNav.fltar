@@ -32,7 +32,7 @@
     GenerateGlossaryProxy="true" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/ShP365.fldes"
+      Link="/Project/Destinations/Github2.fldes"
       Publish="true" />
   </Destinations>
   <Variables>
