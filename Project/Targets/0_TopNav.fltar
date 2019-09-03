@@ -32,7 +32,6 @@
     GenerateGlossaryProxy="true" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/Github2.fldes"
       Publish="true" />
   </Destinations>
   <Variables>

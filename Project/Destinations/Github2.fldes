@@ -5,7 +5,7 @@
   Host="ftp.myftpserver.com"
   User="MyAccountId"
   Password=""
-  Directory="C:\Users\dvega\Documents\SourceControl Publish\SnippetTest"
+  Directory="C:\Users\dvega\Documents\SourceControl Publish\Test"
   Port=""
   ViewUrl="http://www.madcapsoftware.com/"
   Type="scm"
