@@ -512,3 +512,9 @@ Styles after this point are styles that are for specific mediums. If any additio
 	}
 }
 
+hr.fourpx
+{
+	border: inset 4px #b22222;
+	width: 75%;
+}
+
