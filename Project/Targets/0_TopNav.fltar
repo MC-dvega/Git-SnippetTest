@@ -12,7 +12,7 @@
   ResultsPerPage="10"
   ConditionTagExpression="exclude[Default.PrintOnly] "
   DefaultUrl="/Content/Home.htm"
-  MasterStylesheetOverride="false"
+  MasterStylesheetOverride="true"
   TabletBreakpoint="1279"
   DisableAutoSync="true"
   Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
