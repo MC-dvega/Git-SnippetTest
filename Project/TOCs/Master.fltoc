@@ -186,4 +186,7 @@
   <TocEntry
     Title="PDF"
     Link="/Content/Resources/PDF/PDF.pdf" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Testtesttest.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
